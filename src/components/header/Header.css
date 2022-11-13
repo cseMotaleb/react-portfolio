@@ -1,0 +1,7 @@
+.header{
+   background-color: var(--black);
+
+}
+.header .navbar a.nav-link, .navbar-brand{
+    color: var(--color-lightn);
+}
